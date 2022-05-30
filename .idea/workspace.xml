@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="29sjK9TMDDaaj319YeNGCc1NU7W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +39,17 @@
       <option name="presentableId" value="Default" />
       <updated>1653908620336</updated>
       <workItem from="1653908622470" duration="53000" />
+      <workItem from="1653909609612" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="66" key="new project wizard" timestamp="1653909649623">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="125" y="66" key="new project wizard/0.0.1549.823@0.0.1549.823" timestamp="1653909649623" />
   </component>
 </project>
